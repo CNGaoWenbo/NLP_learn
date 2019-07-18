@@ -4,7 +4,7 @@ Created on Mon Jul 15 16:56:47 2019
 
 @author: Gao Wenbo
 """
-
+##知识点：词嵌入，词向量，PCA
 import numpy as np
 from nltk.tokenize import WordPunctTokenizer
 f = open("E:/quora.txt",'r', encoding='UTF-8')
